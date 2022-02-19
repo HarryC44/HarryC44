@@ -1,12 +1,15 @@
 <p align="center">
-  <a href=""><img height="auto" width="200" style="border-radius:100%" src="/unnamed (1).png" ></a>
+  <a href=""><img src="/mylogo.png" ></a>
+<ul>
+  <li>👋 Hi, I’m Harshith.S</li>
+  <li> 👀 I’m interested in Photo and video editing , Grapic designing.</li> 
+  <li>🌱 I’m currently learning BBA.</li>
+</ul>
+</p>
 
-- 👋 Hi, I’m Harshith.S
-- 👀 I’m interested in Photo and video editing , Grapic designing. 
-- 🌱 I’m currently learning BBA.
- 
- ---
-  <P>
+---
+
+<P>
 💼 I'm a [Freelancer](https://www.fiverr.com/harrybhai4)
   </p> <a><img src=to get my services , check my profile [CLICK HERE](https://www.fiverr.com/harrybhai4) 
 - 🎨 I also create NFT's , Here's my profile [CLICK HERE](https://opensea.io/HarryCharan)
