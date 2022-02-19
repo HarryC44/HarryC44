@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="/mylogo.png" ></a>
+  <a href=""><img height="500" width="500" style="border-radius:100%" src="/mylogo.png" ></a>
 <ul>
   <li>👋 Hi, I’m Harshith.S</li>
   <li> 👀 I’m interested in Photo and video editing , Grapic designing.</li> 
