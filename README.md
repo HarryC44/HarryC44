@@ -21,7 +21,7 @@
 
 <p align="center">
 <b>  🎨 I also create NFT's , Here's my profile <a href="https://opensea.io/HarryCharan">CLICK HERE</a></b><br>
-<b> 🤑 Buy my NFT collection - <a href="https://opensea.io/collection/goc-by-harry">GIRLS ON CANVAS</a></b><br>
+<b> 🤑 Buy my NFT collection - <a href="https://opensea.io/collection/goc-by-harry">GIRLS ON CANVAS</a></b><br><br>
   <a href="https://opensea.io/collection/goc-by-harry"><img height="500" width="800" style="border-radius:100%" src="/Screenshot 2022-02-19 at 12.02.21 PM.png"></a>
  </p> 
 <!---
