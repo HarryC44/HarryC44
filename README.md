@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img height="auto" width="200" style="border-radius:50%" src="/unnamed (1).png" ></a>
+  <a href=""><img height="auto" width="200" style="border-radius:100%" src="/unnamed (1).png" ></a>
 
 - 👋 Hi, I’m Harshith.S
 - 👀 I’m interested in Photo and video editing , Grapic designing. 
