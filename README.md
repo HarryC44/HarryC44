@@ -2,9 +2,9 @@
   <a href=""><img height="300" width="300" style="border-radius:100%" src="/mylogo.png" ></a>
 
 <p align="center"> 
-<h3 align="center">- 👋 Hi, I’m Harshith.S</h3><br>
-<h3 align="center">- 👀 I’m interested in Photo and video editing , Grapic designing.</h3><br>
-<h3 align="center">- 🌱 I’m currently learning BBA.</h3><br>
+<h3 align="center">- 👋 Hi, I’m Harshith.S</h3>
+<h3 align="center">- 👀 I’m interested in Photo and video editing , Grapic designing.</h3>
+<h3 align="center">- 🌱 I’m currently pursiung my undergraduation in BBA , from [SJC](https://www.sjc.ac.in/) </h3>
 </p>
 
 </p>
