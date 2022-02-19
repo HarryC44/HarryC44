@@ -1,3 +1,6 @@
+<p align="centre">
+  <a href=""><img src="/unnamed (1).png" height="auto" width="200" style="border-radius:50%"></a>
+
 - 👋 Hi, I’m Harshith.S
 - 👀 I’m interested in Photo and video editing , Grapic designing. 
 - 🌱 I’m currently learning BBA.
