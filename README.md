@@ -11,8 +11,10 @@
 
 ---
 
-<P>
-💼 I'm a [Freelancer](https://www.fiverr.com/harrybhai4)
+<P align="center">
+  - 💼 I'm a <a href="https://www.fiverr.com/harrybhai4">Freelancer</a><br>
+  <a href="https://www.fiverr.com/harrybhai4"><img height="300" width="300" style="border-radius:100%" src="/Screenshot 2022-02-19 at 9.48.46 AM.png" ></a>
+
   </p> <a><img src=to get my services , check my profile [CLICK HERE](https://www.fiverr.com/harrybhai4) 
 - 🎨 I also create NFT's , Here's my profile [CLICK HERE](https://opensea.io/HarryCharan)
 - 🤑 Buy my NFT collection - [Girls on Canvas](https://opensea.io/collection/goc-by-harry)
