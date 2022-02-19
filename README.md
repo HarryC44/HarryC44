@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarryC44
+- 👋 Hi, I’m Harshith.S
 - 👀 I’m interested in Photo and video editing , Grapic designing. 
 - 🌱 I’m currently learning BBA
 
