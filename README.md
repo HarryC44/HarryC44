@@ -1,9 +1,9 @@
 <p align="center">
   <a href=""><img height="300" width="300" style="border-radius:100%" src="/mylogo.png" ></a>
-<ul align="center">
-  <li>👋 Hi, I’m Harshith.S</li>
-  <li> 👀 I’m interested in Photo and video editing , Grapic designing.</li> 
-  <li>🌱 I’m currently learning BBA.</li>
+<ul style="list-style-type:none;" align="center">
+  <li>- 👋 Hi, I’m Harshith.S</li>
+  <li>- 👀 I’m interested in Photo and video editing , Grapic designing.</li> 
+  <li>- 🌱 I’m currently learning BBA.</li>
 </ul>
 </p>
 
