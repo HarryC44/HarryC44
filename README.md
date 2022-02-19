@@ -5,7 +5,7 @@
 <h4 align="center">- 👋 Hi, I’m Harshith.S <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshith" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harshith-s-165a72229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshith" height="30" width="40" /></a></h4> 
-<h4 align="center">- 👀 I’m interested in Photo and video editing , Grapic designing.</h4>
+<h4 align="center">- 👀 I’m interested in Photo and video editing ,Graphic designing.</h4>
 <h4 align="center">- 🌱 I’m currently pursiung my undergraduation in BBA , from <a href="https://www.sjc.ac.in/">SJC</a> </h4>
 </p>
 
