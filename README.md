@@ -22,7 +22,7 @@
 <p align="center">
 <b>  🎨 I also create NFT's , Here's my profile <a href="https://opensea.io/HarryCharan">CLICK HERE</a></b><br>
 <b> 🤑 Buy my NFT collection - <a href="https://opensea.io/collection/goc-by-harry">GIRLS ON CANVAS</a></b><br>
-  <a href="https://opensea.io/collection/goc-by-harry"><img height="300" width="300" style="border-radius:100%" src="/Screenshot 2022-02-19 at 12.02.21 PM.png"></a>
+  <a href="https://opensea.io/collection/goc-by-harry"><img height="500" width="800" style="border-radius:100%" src="/Screenshot 2022-02-19 at 12.02.21 PM.png"></a>
  </p> 
 <!---
 HarryC44/HarryC44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
